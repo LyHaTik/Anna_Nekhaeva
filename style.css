@@ -60,7 +60,6 @@ a {
 	background-image: url('tg_button.png');
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 25px;
 	border-radius: 25px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -69,11 +68,9 @@ a {
 
 .btn:hover {
 	transform: scale(1.1);
-	background: rgb(248,168,24);
 	background-image: url('tg_button.png');
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 20px;
 }
 
 .usercard {
