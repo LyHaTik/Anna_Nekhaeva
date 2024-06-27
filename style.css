@@ -1,9 +1,9 @@
 body {
+	background-image: url('fon.jpg');
 	margin: 0;
 	padding: 0;
 	font-size: 16px;
-	color: var(--tg-theme-text-color);
-	background: var(--tg-theme-bg-color);
+	color: white;
 }
 
 a {
@@ -22,7 +22,6 @@ a {
 }
 
 .container {
-	background-image: url('fon.jpg');
 	max-width: 390px;
 	padding: 20px;
 }
