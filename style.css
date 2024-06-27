@@ -50,6 +50,7 @@ a {
 	background-image: url('tg_button.png');
 	background-repeat: no-repeat;
 	background-position: center;
+	background-size: 45px;
 	border-radius: 25px;
 	text-transform: uppercase;
 	font-weight: 700;
