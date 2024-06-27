@@ -36,18 +36,11 @@ a {
 	border: 2px;
 	border-radius: 25px;
 }
-
-
-#order:hover {
-	transform: scale(1.1);
-	background: rgb(248,168,24);
-}
 	
 .btn {
 	display: inline-block;
 	padding: 25px 25px;
 	border: none;
-	background-image: url('tg_button.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 45px;
@@ -62,6 +55,18 @@ a {
 	background-image: url('tg_button.png');
 	background-repeat: no-repeat;
 	background-position: center;
+}
+
+#btn1 {
+	background-image: url('tg_button.png');
+}
+
+#btn2 {
+	background-image: url('wa_button.png');
+}
+
+#btn3 {
+	background-image: url('wa_button.png');
 }
 
 .usercard {
