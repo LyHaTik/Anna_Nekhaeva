@@ -27,14 +27,7 @@ a {
 	padding: 0;
 	text-align: center;
 	align-items: center;
-	height: 270px;
-}
-
-.img {
-	width: 180px;
-	height: 180px;
-	border: 2px;
-	border-radius: 25px;
+	height: 100px;
 }
 	
 .btn {
