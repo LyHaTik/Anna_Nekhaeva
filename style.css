@@ -11,16 +11,6 @@ a {
   text-decoration: none
 }
 
-
-#main {
-	width: 100%;
-	text_align: center;
-}
-
-#comment {
-	height: 40px;
-}
-
 .container {
 	max-width: 390px;
 	padding: 20px;
