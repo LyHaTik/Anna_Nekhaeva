@@ -64,6 +64,12 @@ a {
 	transition: background 2s linear;
 }
 
+#btn1:hover {
+	transform: scale(1.1);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
 #btn2 {
 	background-image: url('wa_button.png');
 }
