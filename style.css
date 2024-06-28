@@ -64,12 +64,12 @@ a {
 
 #btnclose {
 	display: inline-block;
-	padding: 25px 25px;
+	padding: 20px 20px;
 	border: none;
 	background-image: url('back_button.png');
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 47px;
+	background-size: 51px;
 	border-radius: 25px;
 	text-transform: uppercase;
 	font-weight: 700;
