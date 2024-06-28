@@ -12,6 +12,10 @@ a {
  	text-decoration: none
 }
 
+p {
+	text-align: right;
+}
+
 .container {
 	max-width: 390px;
 	padding: 20px;
