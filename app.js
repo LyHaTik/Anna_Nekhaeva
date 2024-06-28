@@ -1,9 +1,9 @@
-let ig = window.Instagram.WebApp;
+let ig = window;
 
 ig.expand();
 
 let btnclose = document.getElementById("btn3");
 
 btnclose.addEventListener("click", function(){
-	ig.close;
+	window.close();
 });
