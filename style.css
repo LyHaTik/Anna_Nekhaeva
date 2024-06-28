@@ -46,7 +46,6 @@ a {
 
 .btn:hover {
 	transform: scale(1.1);
-	background-image: url('tg_button.png');
 	background-repeat: no-repeat;
 	background-position: center;
 }
@@ -75,6 +74,12 @@ a {
 	text-transform: uppercase;
 	font-weight: 700;
 	transition: background 2s linear;
+}
+
+.btnclose:hover {
+	transform: scale(1.1);
+	background-repeat: no-repeat;
+	background-position: center;
 }
 	
 
