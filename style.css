@@ -8,8 +8,8 @@ body {
 }
 
 a {
-  color: white !important;
-  text-decoration: none
+ 	color: white !important;
+ 	text-decoration: none
 }
 
 .container {
@@ -20,7 +20,7 @@ a {
 .inner {
 	padding: 20;
 	display: grid;
-	grid-template-rows: 150px 150px 150px 100px;
+	grid-template-rows: 150px 150px 150px 70px;
 }
 
 .item {
