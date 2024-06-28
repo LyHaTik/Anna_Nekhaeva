@@ -52,9 +52,9 @@ a {
 
 #btn1 {
 	display: inline-block;
-	padding: 25px 40px;
+	padding: 25px 60px;
 	border: none;
-	background-image: url('tg_button.png');
+	background-image: url('TG-channel.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 47px;
