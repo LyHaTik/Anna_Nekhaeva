@@ -76,7 +76,7 @@ a {
 	transition: background 2s linear;
 }
 
-.btnclose:hover {
+#btnclose:hover {
 	transform: scale(1.1);
 	background-repeat: no-repeat;
 	background-position: center;
