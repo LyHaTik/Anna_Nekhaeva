@@ -1,4 +1,4 @@
-let btnclose = document.getElementById("btn3");
+let btnclose = document.getElementById("btnclose");
 
 btnclose.addEventListener("click", function(){
 	window.close();
