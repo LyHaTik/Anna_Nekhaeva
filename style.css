@@ -20,7 +20,7 @@ a {
 .inner {
 	padding: 20;
 	display: grid;
-	grid-template-rows: 150px 150px 150px 70px;
+	grid-template-rows: 200px 100px 100px 40px;
 }
 
 .item {
