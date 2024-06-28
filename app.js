@@ -1,5 +1,7 @@
+let ig = window;
+
 let btnclose = document.getElementById("btnclose");
 
 btnclose.addEventListener("click", function(){
-	window.close();
+	ig.close();
 });
