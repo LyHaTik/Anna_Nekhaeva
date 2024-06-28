@@ -52,12 +52,12 @@ a {
 
 #btn1 {
 	display: inline-block;
-	padding: 25px 60px;
+	padding: 18px 66px;
 	border: none;
 	background-image: url('TG-channel.png');
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 47px;
+	background-size: 140px;
 	border-radius: 5px;
 	text-transform: uppercase;
 	font-weight: 700;
